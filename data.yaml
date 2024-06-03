@@ -1,0 +1,9 @@
+path: '/content/drive/My Drive//yolo hat detection/data' #the main directory
+train: images/train #training images for it
+val: images/val  #validation images path
+
+nc: 2
+
+names:
+  - hat
+  - no_hat
