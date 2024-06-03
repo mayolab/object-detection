@@ -1,7 +1,10 @@
 # object-detection
 
 The project can be considered an extension of image classification. It automatically detects and marks the coordinates of hats in 'real time' using your laptop's webcam . We utilized the YOLOv8. In for some parts google colab was used.
+
+
 Summary of points:
+
 ● Imported necessary modules and mounted Google Drive in the Colab
 environment for file access.
 ● Installed the "ultralytics" library for YOLO object detection.
